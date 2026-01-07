@@ -1,3 +1,8 @@
+## Legal Notice,
+
+> ⚠️ Use this app responsibly. Only download content you own or are allowed to use. Respect copyright and YouTube’s Terms of Service. Look at the bottom of the page for more info.
+
+---
 # YouTube Transformer
 
 Easily download and convert YouTube videos to audio or video files.
