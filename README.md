@@ -1,3 +1,6 @@
+# IMPORTANT NOTICE
+** ⚠️ This tool is intended for personal use with content you own or are allowed to download. Please respect copyright laws and YouTube’s Terms of Service. **
+---
 # YouTube Transformer
 
 Easily download and convert YouTube videos to audio or video files.
