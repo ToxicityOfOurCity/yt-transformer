@@ -1,6 +1,6 @@
 ## Legal Notice,
 
-> ⚠️ Use this app responsibly. Only download content you own or are allowed to use. Respect copyright and YouTube’s Terms of Service. Look at the bottom of the page for more info.
+> ⚠️ Use this app responsibly. Only download content you own or are allowed to use. Respect copyright and [YouTube’s Terms of Service](https://www.youtube.com/static?template=terms). Look at the bottom of the page for more info.
 
 ---
 # YouTube Transformer
@@ -80,4 +80,4 @@ What format selections there are
 
 - The creators of this app are **not** responsible for any misuse of this software.
 
-- By using this tool, you agree to comply with **all** applicable copyright laws and YouTube’s Terms of Service.  
+- By using this tool, you agree to comply with **all** applicable copyright laws and [YouTube’s Terms of Service](https://www.youtube.com/static?template=terms).  
