@@ -1,6 +1,3 @@
-# IMPORTANT NOTICE
-** ⚠️ This tool is intended for personal use with content you own or are allowed to download. Please respect copyright laws and YouTube’s Terms of Service. **
----
 # YouTube Transformer
 
 Easily download and convert YouTube videos to audio or video files.
@@ -63,3 +60,21 @@ What format selections there are
 ## License
 
 **MIT License** — open source and free to use.
+
+---
+
+# LEGAL DISCLAIMER
+
+Legal Disclaimer
+
+⚠️ **Important**: YouTube Transformer is intended for personal use only.
+
+- Only download content that you own or have permission to use.
+
+- Respect YouTube’s Terms of Service — do **not** download videos where downloading is prohibited.
+
+- Downloading copyrighted content without permission may be **illegal** in your country.
+
+- The creators of this app are **not** responsible for any misuse of this software.
+
+- By using this tool, you agree to comply with **all** applicable copyright laws and YouTube’s Terms of Service.  
