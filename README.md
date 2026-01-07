@@ -65,7 +65,7 @@ What format selections there are
 
 # LEGAL DISCLAIMER
 
-⚠️ **Important**: YouTube Transformer is intended for personal use only.
+⚠️ **Important**: YouTube Transformer is intended for Personal and Educational use only.
 
 - Only download content that you own or have permission to use.
 
