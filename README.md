@@ -12,6 +12,15 @@ Easily download and convert YouTube videos to audio or video files.
 
 ---
 
+## Download & Install
+
+**Install for Windows**  
+[**Download Installer Here**]([./YouTubeTransformerInstaller.exe](https://github.com/ToxicityOfOurCity/yt-transformer/releases/tag/release))
+
+> The installer bundles the app and FFmpeg, sets up everything automatically, and creates shortcuts for easy access.
+
+---
+
 ## How to use
 
 1. Paste a YouTube link.  
@@ -19,15 +28,6 @@ Easily download and convert YouTube videos to audio or video files.
 3. Choose your folder.  
 4. Click **Transform** — your file will download and convert automatically.
 
----
-
-## Download & Install
-
-**Install for Windows**  
-[Download Installer Here]([./YouTubeTransformerInstaller.exe](https://github.com/ToxicityOfOurCity/yt-transformer/releases/tag/release
-))
-
-> The installer bundles the app and FFmpeg, sets up everything automatically, and creates shortcuts for easy access.
 
 ---
 
