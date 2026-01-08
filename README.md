@@ -38,19 +38,19 @@ Easily download and convert YouTube videos to audio or video files.
 
 ## Screenshots
 
-![Main Window](./images/full_window.png)  
+![Main Window](./imagess/full_windoww.png)  
 
 This is the main window of the app.
 
 ---
 
-![Queue Panel](./images/queue.png)  
+![Queue Panel](./imagess/queuee.png)  
 
 This is how the queue appears while downloading videos (one is mp3 other is mp4).
 
 ---
 
-![Format Selector](./images/selection.png)
+![Format Selector](./imagess/selectionn.png)
 
 What format selections there are
 
