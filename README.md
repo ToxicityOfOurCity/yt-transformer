@@ -46,7 +46,7 @@ This is the main window of the app.
 
 ![Queue Panel](./imagess/queuee.png)  
 
-This is how the queue appears while downloading videos (one is mp3 other is mp4).
+This is how the queue appears while downloading videos.
 
 ---
 
