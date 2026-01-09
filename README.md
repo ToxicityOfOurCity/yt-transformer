@@ -1,15 +1,15 @@
+## YouTube Transformer
+
+Easily download and convert YouTube videos to audio or video files.
+
+---
+
 # Download & Install
 
 **Install for Windows**  
 [**Download Installer Here**](https://github.com/ToxicityOfOurCity/yt-transformer/releases/tag/release)
 
 > The installer bundles the app and FFmpeg, sets up everything automatically, and creates shortcuts for easy access.
-
----
-
-## YouTube Transformer
-
-Easily download and convert YouTube videos to audio or video files.
 
 ---
 
@@ -36,33 +36,11 @@ Easily download and convert YouTube videos to audio or video files.
 
 ---
 
-# To=Do List:
-
-* Windows Client APP []
-* Android APK []
-* Linux(Debian/Ubuntu Distro) Terminal APP []
-* iOS APP []
-  
----
-
 # Windows Appearance
 
 ![Main Window](./imagess/full_windoww.png)  
 
 This is the main window of the app.
-
----
-
-
----
-
-## Features at a glance
-
-- Simple, clean **GUI** built with Tkinter.  
-- Fully **queue-enabled** — add multiple videos or audio files at once.  
-- Automatically converts audio in videos to **AAC** for Windows-friendly playback.  
-- Works offline after installation — no internet needed to run the app itself.  
-- Supports almost any YouTube video or audio stream.
 
 ---
 
@@ -84,4 +62,13 @@ This is the main window of the app.
 
 - The creators of this app are **not** responsible for any misuse of this software.
 
-- By using this tool, you agree to comply with **all** applicable copyright laws and [YouTube’s Terms of Service](https://www.youtube.com/static?template=terms).  
+- By using this tool, you agree to comply with **all** applicable copyright laws and [YouTube’s Terms of Service](https://www.youtube.com/static?template=terms).
+
+---
+
+# To=Do List:
+
+* Windows Client APP [**Completed!**]
+* Android APK [*In Progress...*]
+* Linux(Debian/Ubuntu Distro) Terminal APP [Not Begun yet.]
+* iOS APP [Not Begun yet.]
