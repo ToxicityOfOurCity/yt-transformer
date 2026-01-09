@@ -1,3 +1,22 @@
+## Download & Install
+
+**Install for Windows**  
+[**Download Installer Here**](https://github.com/ToxicityOfOurCity/yt-transformer/releases/tag/release)
+
+> The installer bundles the app and FFmpeg, sets up everything automatically, and creates shortcuts for easy access.
+
+---
+
+# To=Do List:
+
+* Windows Client APP []
+* Android APK []
+* Linux(Debian/Ubuntu Distro) Terminal APP []
+* iOS APP []
+
+
+---
+
 ## Legal Notice,
 
 > ⚠️ Use this app responsibly. Only download content you own or are allowed to use. Respect copyright and [YouTube’s Terms of Service](https://www.youtube.com/static?template=terms). Look at the bottom of the page for more info.
@@ -14,15 +33,6 @@ Easily download and convert YouTube videos to audio or video files.
 - Convert YouTube videos into **MP3, WAV, FLAC, M4A, OPUS** audio.  
 - Save videos as **MP4, MKV** with compatible audio so they play on any Windows media player.  
 - Add multiple downloads to a **queue** and watch progress in real-time.
-
----
-
-## Download & Install
-
-**Install for Windows**  
-[**Download Installer Here**](https://github.com/ToxicityOfOurCity/yt-transformer/releases/tag/release)
-
-> The installer bundles the app and FFmpeg, sets up everything automatically, and creates shortcuts for easy access.
 
 ---
 
