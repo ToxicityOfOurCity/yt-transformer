@@ -1,4 +1,4 @@
-## Download & Install
+# Download & Install
 
 **Install for Windows**  
 [**Download Installer Here**](https://github.com/ToxicityOfOurCity/yt-transformer/releases/tag/release)
@@ -7,24 +7,15 @@
 
 ---
 
-# To=Do List:
+## YouTube Transformer
 
-* Windows Client APP []
-* Android APK []
-* Linux(Debian/Ubuntu Distro) Terminal APP []
-* iOS APP []
-
+Easily download and convert YouTube videos to audio or video files.
 
 ---
 
 ## Legal Notice,
 
 > ⚠️ Use this app responsibly. Only download content you own or are allowed to use. Respect copyright and [YouTube’s Terms of Service](https://www.youtube.com/static?template=terms). Look at the bottom of the page for more info.
-
----
-# YouTube Transformer
-
-Easily download and convert YouTube videos to audio or video files.
 
 ---
 
@@ -43,7 +34,15 @@ Easily download and convert YouTube videos to audio or video files.
 3. Choose your folder.  
 4. Click **Transform** — your file will download and convert automatically.
 
+---
 
+# To=Do List:
+
+* Windows Client APP []
+* Android APK []
+* Linux(Debian/Ubuntu Distro) Terminal APP []
+* iOS APP []
+  
 ---
 
 # Windows Appearance
