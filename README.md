@@ -66,7 +66,7 @@ This is the main window of the app.
 
 ---
 
-# To=Do List:
+# To-Do List:
 
 * Windows Client APP [**Completed!**]
 * Android APK [*In Progress...*]
