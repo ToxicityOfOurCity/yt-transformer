@@ -70,5 +70,4 @@ This is the main window of the app.
 
 * Windows Client APP [**Completed!**]
 * Android APK [*In Progress...*]
-* Linux(Debian/Ubuntu Distro) Terminal APP [Not Begun yet.]
 * iOS APP [Not Begun yet.]
